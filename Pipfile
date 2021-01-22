@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "*"
+python3-xlib = "*"
+python-xlib = "*"
+numpy = "*"
+opencv-python = "*"
+pynput = "*"
+pyscreenshot = "*"
+pytesseract = "*"
+
+[dev-packages]
+autopep8 = "*"
+rope = "*"
+
+[requires]
+python_version = "3.9"
