@@ -2,7 +2,7 @@
 
 Converts image to text in a selected area.
 
-# Dependencies:
+## Dependencies:
   - [tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html)
 
 ## Build dependencies:
