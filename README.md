@@ -2,6 +2,9 @@
 
 Converts image to text in a selected area.
 
+## Demo:
+![demo](./demo/demo.gif)
+
 ## Dependencies:
   - [tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html)
 
